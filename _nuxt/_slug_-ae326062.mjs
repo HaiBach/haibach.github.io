@@ -1,0 +1,1 @@
+import{_ as s,o,c as r,a as e,t}from"./entry-bf540f02.mjs";const n={},c=e("h1",null,"Xin ch\xE0o",-1);function _(a,l){return o(),r("div",null,[c,e("h1",null,t(a.$route.params.slug),1)])}var i=s(n,[["render",_]]);export{i as default};
