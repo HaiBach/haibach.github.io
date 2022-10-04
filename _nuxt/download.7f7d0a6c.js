@@ -1,0 +1,1 @@
+import{a as e,o as n,b as t,h as o}from"./entry.bfd2aaf6.js";const c={},s=o("h1",null,"DOWNLOAD",-1),a=o("p",null,"N\u1ED9i dung c\u1EE7a download",-1),_=[s,a];function d(l,r){return n(),t("main",null,_)}const u=e(c,[["render",d]]);export{u as default};

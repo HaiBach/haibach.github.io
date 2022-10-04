@@ -1,0 +1,1 @@
+import{_ as o,o as n,c,d as e}from"./entry-6138ab7f.mjs";const t={},a=e("h1",null,"DOWNLOAD",-1),s=e("p",null,"N\u1ED9i dung c\u1EE7a download",-1),_=[a,s];function d(r,l){return n(),c("main",null,_)}var u=o(t,[["render",d]]);export{u as default};

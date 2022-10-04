@@ -1,0 +1,1 @@
+import{a as o,o as t,b as a,h as e,t as n}from"./entry.bfd2aaf6.js";const r={},c=e("h1",null,"Xin ch\xE0o",-1);function l(s,_){return t(),a("div",null,[c,e("h1",null,n(s.$route.params.slug),1)])}const i=o(r,[["render",l]]);export{i as default};

@@ -1,0 +1,1 @@
+const s=""+globalThis.__publicAssetsURL("img/vietnam-500-1.jpg"),i=""+globalThis.__publicAssetsURL("img/vietnam-500-2.jpg"),t=""+globalThis.__publicAssetsURL("img/vietnam-500-3.jpg"),_=""+globalThis.__publicAssetsURL("img/vietnam-500-4.jpg"),a=""+globalThis.__publicAssetsURL("img/vietnam-500-5.jpg");export{s as _,i as a,t as b,_ as c,a as d};
